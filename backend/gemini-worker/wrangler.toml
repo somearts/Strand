@@ -1,0 +1,7 @@
+name = "strand-roast"
+main = "src/index.js"
+compatibility_date = "2026-01-01"
+
+[vars]
+FIREBASE_PROJECT_ID = "strand-b9e57"
+GEMINI_MODEL = "gemini-3.5-flash-lite"

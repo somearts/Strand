@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "602232653305",
+    "project_id": "strand-b9e57",
+    "storage_bucket": "strand-b9e57.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:602232653305:android:a1039ceddc00a3aed46928",
+        "android_client_info": {
+          "package_name": "com.strand.strand"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "602232653305-f2g1i35hud41ngmgq10fbmbh6qtr6g18.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBKpHaCOJDerG7Y7nL92FckFHw9Orv0wDo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "602232653305-f2g1i35hud41ngmgq10fbmbh6qtr6g18.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
